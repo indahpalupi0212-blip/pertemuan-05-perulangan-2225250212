@@ -4,6 +4,7 @@
 - NIM: 2225250212
 - Kelas: 3F
 
+
 ## Tujuan
 
 Menggunakan perulangan `for` dan `while` untuk menyelesaikan masalah iteratif, melakukan validasi input, menghitung nilai menggunakan proses berulang, serta memahami kondisi berhenti pada perulangan dalam Python.
