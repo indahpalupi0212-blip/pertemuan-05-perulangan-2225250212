@@ -1,8 +1,8 @@
 # Pertemuan 05 Perulangan Python
 
-**Nama:** Indah Palupi Kusumaningrum
-**NIM:** 2225250212
-**Kelas:** 3F
+- Nama: Indah Palupi Kusumaningrum
+- NIM: 2225250212
+- Kelas: 3F
 
 ## Tujuan
 
